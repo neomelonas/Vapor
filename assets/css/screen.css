@@ -242,6 +242,9 @@ h2 {
   text-transform: uppercase;
   font-weight: 300;
 }
+.content {
+  text-align: justify;
+}
 section.post-content img {
   display: block;
   margin: 0 auto;
